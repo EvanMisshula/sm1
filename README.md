@@ -1,2 +1,1 @@
-sm1
-===
+This is a repository for all of the social media data and visualizations for JustPublics@365.
